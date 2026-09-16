@@ -150,7 +150,3 @@ comm-device-monitor-api/
 - Prometheus 指标暴露  
 - 简单前端表格 / Grafana 对接  
 - 按天聚合报表接口  
-
-## License
-
-MIT
